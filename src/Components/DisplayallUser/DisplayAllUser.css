@@ -1,0 +1,9 @@
+.users-wrapper{
+    display: flex;
+    padding:50px;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    flex-wrap: wrap;
+    background-color: rgb(190, 193, 190);
+}

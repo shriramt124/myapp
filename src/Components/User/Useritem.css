@@ -1,0 +1,25 @@
+.user-info-wrapper{
+    flex-basis:20%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    align-items: center;
+    background-color: rgb(252, 251, 251);
+    padding:20px;
+    border-radius:20px;
+
+}
+.user-info-wrapper img{
+    width:100%;
+}
+.user-info-wrapper button{
+    padding: 10px;
+    cursor:pointer;
+    width:100px;
+    background-color: orange;
+    border:none;
+    color:white;
+    font-size:20px;
+
+}
