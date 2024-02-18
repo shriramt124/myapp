@@ -7,6 +7,10 @@
     background-color: orangered;
     padding:10px;
 }
+.navbar i{
+    margin: auto 20px;
+
+}
 .navbar h1{
     color:white;
     text-transform: capitalize;
